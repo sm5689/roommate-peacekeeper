@@ -11,7 +11,7 @@
 
 Roommate Peacekeeper is a comprehensive household management tool designed to solve the common challenges of shared living. Track chores, log meals, split expenses, and ensure everyone contributes fairly to household responsibilities.
 
-**Live Demo**: [View Demo](#) | **Figma Design**: [View Design](https://www.figma.com/design/YFPZaLYtJPOXHJHXgXQPaW/Create-Roommate-App-Screens)
+**Live Demo**: [View Demo](https://roommate-peacekeepersm.netlify.app/)
 
 ## ✨ Key Features
 
